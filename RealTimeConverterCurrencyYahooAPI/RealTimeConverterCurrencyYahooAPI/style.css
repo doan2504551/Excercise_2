@@ -1,0 +1,13 @@
+﻿body {
+    background-color:#9933ff;
+}
+th{
+    font-size:larger;
+    color: #0040ff;
+}
+tabble{
+    width:100%;
+    margin : auto;
+    text-align :center;
+    border :2px dotted #00ff21;
+}
